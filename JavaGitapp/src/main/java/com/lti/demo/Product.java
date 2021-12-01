@@ -27,7 +27,7 @@ public class Product {
 	}
 	public void setPrdName(String prdName) {
 		this.prdName = prdName;
-	} 
+	}
 	
 }
 
